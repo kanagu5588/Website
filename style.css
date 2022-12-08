@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    background-color: rgb(44, 243, 74);
+    height: 100px;
+    width: 100%;
+    position: relative;
+
+}
+#nav{
+    background-color: rgb(14, 226, 233);
+    height: 80px;
+    width: 95%;
+    position: absolute;
+    top: 9px;
+    left: 35px;
+}
+
+#logo{
+    background-color: rgb(145, 54, 231);
+    height: 60px;
+    width: 5%;
+    position: absolute;
+    top: 17px;
+    left: 45px;    
+}
+#navlink{
+    background-color: rgb(226, 36, 213);
+    height: 40px;
+    width: 33%;
+    position: absolute;
+    top: 30px;
+    left: 60%;
+    
+}
